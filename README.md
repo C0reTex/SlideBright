@@ -1,7 +1,7 @@
 SlideBright
 ===========
 
-Hexbright - An overengineered Flashlight
+Hexbright - An overengineered flashlight
 
 <h2>Annotation</h2>
 <p>SlideBright is based on darcbright by Robert Quattlebaum <darco@deepdarc.com></p>
