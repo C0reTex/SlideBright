@@ -1,5 +1,5 @@
 /* 
-** SlideBright - Firmware for the overengineered Hexbright flashlight.
+** SlideBright - Firmware for overengineered Hexbright flashlight.
 **               Hexbright: http://hexbright.com/
 **                                ~ Tobias Jäger <Tobias.Jaeger@slidetex.de>
 **
