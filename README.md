@@ -16,4 +16,4 @@ Hexbright - An overengineered flashlight
    <li>adjust-brightness-by-turning mode</li>
  </ol>
 
-<p>last modified: 2014-11-02-14:32</p>
+<p>last modified: 2014-11-02-14:36</p>
