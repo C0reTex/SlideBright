@@ -6,6 +6,7 @@
 **
 ** Based on darcbright by Robert Quattlebaum <darco@deepdarc.com>
 **
+** --------------------------------------------------------------------------
 **
 ** List of Modes:
 **  * 3-brightnesse-level mode (43,175,500)
